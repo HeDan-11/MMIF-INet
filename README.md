@@ -3,8 +3,10 @@ We propose a novel invertible fusion network (MMIF-INet), which directly takes m
 
 Please pay attention! Our method is only suitable for the fusion of color images and gray images.
 
-To Test: python test.py
+# To Test
+python test.py
 
+# Citation
 If this work is helpful to you, please cite it as:
 
 @article{He2024MMIFINetMM,
