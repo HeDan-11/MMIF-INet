@@ -9,7 +9,7 @@ Please pay attention! Our method is only suitable for the fusion of color images
 To test the MMIF-INet, run the following command:
 ```bash
 python test.py
-
+```
 
 ## Citation
 If you find our work useful, please cite us:
@@ -22,3 +22,4 @@ If you find our work useful, please cite us:
   year={2024},
   url={https://api.semanticscholar.org/CorpusID:272405239}
 }
+```
