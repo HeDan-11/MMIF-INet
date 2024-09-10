@@ -1,9 +1,8 @@
 # MMIF-INet: Multimodal Medical Image Fusion by Invertible Network
 
 ## Overview
-MMIF-INet is a novel invertible fusion network that directly accepts multi-channel images as inputs. It performs feature fusion in a process-reversible manner, ensuring the information of the source image pairs is preserved intact. Please note that our method is specifically designed for the fusion of color and grayscale images.
-
-<mark>Please pay attention! Our method is only suitable for the fusion of color images and gray images.</mark>
+MMIF-INet is a novel invertible fusion network that directly accepts multi-channel images as inputs. It performs feature fusion in a process-reversible manner, ensuring the information of the source image pairs is preserved intact.
+<mark>Please pay attention! Our method is only suitable for the fusion of color images and grayscale images.</mark>
 
 ## Testing
 To test the MMIF-INet, run the following command:
