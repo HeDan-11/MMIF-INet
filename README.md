@@ -13,7 +13,6 @@ python test.py
 
 ## Citation
 If you find our work useful, please cite us:
-````markdown
 ```bibtex
 @article{He2024MMIFINetMM,
   title={MMIF-INet: Multimodal medical image fusion by invertible network},
