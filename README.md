@@ -2,6 +2,7 @@
 
 ## Overview
 MMIF-INet is a novel invertible fusion network that directly accepts multi-channel images as inputs. It performs feature fusion in a process-reversible manner, ensuring the information of the source image pairs is preserved intact.
+
 <mark>Please pay attention! Our method is only suitable for the fusion of color images and grayscale images.</mark>
 
 ## Testing
