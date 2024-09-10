@@ -1,4 +1,4 @@
-# MMIF-INet: Multimodal Medical Image Fusion by Invertible Network [paper]([https://example.com/example-paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004445?dgcid=author))
+# [MMIF-INet: Multimodal Medical Image Fusion by Invertible Network](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004445?via%3Dihub)
 
 ## Overview
 MMIF-INet is a novel invertible fusion network that directly accepts multi-channel images as inputs. It performs feature fusion in a process-reversible manner, ensuring the information of the source image pairs is preserved intact.
