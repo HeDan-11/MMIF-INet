@@ -10,6 +10,9 @@ To test the MMIF-INet, run the following command:
 ```bash
 python test.py
 ```
+## The code refers to:
+https://github.com/TomTomTommi/HiNet
+https://github.com/DZSYUNNAN/medicalimagefusion
 
 ## Citation
 If you find our work useful, please cite us:
@@ -22,3 +25,5 @@ If you find our work useful, please cite us:
   url={https://api.semanticscholar.org/CorpusID:272405239}
 }
 ```
+
+If you have any questions, feel free to E-mail me via: hedan123987@163.com
