@@ -5,7 +5,7 @@ MMIF-INet is a novel invertible fusion network that directly accepts multi-chann
 
 <mark>Please pay attention! Our method is only suitable for the fusion of color images and grayscale images.</mark>
 
-## Testing
+## To Test
 To test the MMIF-INet, run the following command:
 ```bash
 python test.py
