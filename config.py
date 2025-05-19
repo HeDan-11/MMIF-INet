@@ -10,7 +10,14 @@ init_scale = 0.01
 lamda_reconstruction = 5
 lamda_guide = 1
 lamda_low_frequency = 1
-device_ids = [0]
+device = torch.device(f"cuda:{str(device_ids[0])}" if torch.cuda.is_available() else "cpu")
+
+# LOSS FUN
+l_alpha = 3
+l_beta = 1
+l_gamma = 1
+l_ks = 1
+mse_w = 0.01
 
 # Train:
 batch_size = 4
