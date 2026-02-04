@@ -17,12 +17,16 @@ https://github.com/DZSYUNNAN/medicalimagefusion
 ## Citation
 If you find our work useful, please cite us:
 ```bibtex
-@article{He2024MMIFINetMM,
-  title={MMIF-INet: Multimodal medical image fusion by invertible network},
-  author={Dan He and Weisheng Li and Guofen Wang and Yuping Huang and Shiqiang Liu},
-  journal={Information Fusion},
-  year={2024},
-  url={https://api.semanticscholar.org/CorpusID:272405239}
+@article{HE2025102666,
+title = {MMIF-INet: Multimodal medical image fusion by invertible network},
+journal = {Information Fusion},
+volume = {114},
+pages = {102666},
+year = {2025},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2024.102666},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253524004445},
+author = {Dan He and Weisheng Li and Guofen Wang and Yuping Huang and Shiqiang Liu},
 }
 ```
 
